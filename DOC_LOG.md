@@ -7,3 +7,11 @@
 - Files: README.md, .gitignore, requirements.txt, notebooks/Football_Insights.ipynb, scripts/exploration.py, scripts/goals_analysis.py, scripts/results_logic.py, DOC_LOG.md.
 - Commit: Pending.
 - Push: Pending.
+
+## 2026-04-25
+- Action: Implemented Module 1 basic exploration.
+- Status: In progress.
+- Changes: Added data loading, validation, and printed answers for Q1-Q4 in scripts/exploration.py.
+- Files: scripts/exploration.py, DOC_LOG.md.
+- Commit: Pending.
+- Push: Pending.
