@@ -30,4 +30,12 @@
 - Changes: Added match_result classification, created result labels, and printed answers for Q10-Q12 in scripts/results_logic.py.
 - Files: scripts/results_logic.py, DOC_LOG.md.
 - Commit: 2892d54.
+- Push: Completed.
+
+## 2026-04-25
+- Action: Finalized Module 4 visualizations and completed Exercise 1.
+- Status: COMPLETED.
+- Changes: Rebuilt the notebook with data loading, goal distribution, match outcomes, and top winners visualizations; updated README documentation.
+- Files: notebooks/Football_Insights.ipynb, README.md, DOC_LOG.md.
+- Commit: Pending.
 - Push: Pending.
